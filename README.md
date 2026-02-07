@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Ciao, sono Lorenzo
 
-<!--
-**LorenzoLemmi/LorenzoLemmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Backend Developer con focus su applicazioni web basate su **Spring Boot**.  
+Sto consolidando le basi di Java e backend development attraverso studio autonomo e progetti pratici.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologie
+- Java
+- Spring Boot
+- Spring Data JPA (Hibernate)
+- Spring Security
+- REST API
+- MySQL
+- Thymeleaf
+- Bootstrap
+- Git / Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti principali
+- **Ticket Platform**  
+  Sistema di gestione ticket di supporto con ruoli (Admin / Operatore), validazione lato server e API REST.  
+  👉 https://github.com/LorenzoLemmi/ticket-platform
+
+- **Pizzeria Management Application**  
+  Applicazione web full-stack per la gestione di pizze, ingredienti e offerte speciali.  
+  👉 https://github.com/LorenzoLemmi/spring-la-mia-pizzeria-crud
+
+## 📘 Attualmente in studio
+- Java (OOP, collezioni, clean code)
+- Spring Boot e architettura backend
+- Best practices di sviluppo software
+
+## 📫 Contatti
+- LinkedIn: www.linkedin.com/in/lorenzolemmi
