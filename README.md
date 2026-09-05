@@ -14,7 +14,6 @@ Sto consolidando le basi di Java e backend development attraverso studio autonom
 - Thymeleaf
 - Bootstrap
 - Git / Maven
-- REST API
 - JSON
 
 ## 🚀 Progetti principali
