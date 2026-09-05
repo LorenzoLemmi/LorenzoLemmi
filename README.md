@@ -17,10 +17,15 @@ Sto consolidando le basi di Java e backend development attraverso studio autonom
 ## 🚀 Progetti principali
 - **eCommerce REST API & Full-Stack Web Application | In corso di sviluppo**  
 Stack tecnologico: Java, Spring Boot 4, Spring Framework 7, Spring Security, JWT, Spring Data JPA, MySQL/PostgreSQL, React, Tailwind CSS, AWS.
+
 Architettura & Backend: Sviluppo di un’applicazione eCommerce enterprise basata su architettura RESTful. Implementazione di modelli di dominio complessi, relazioni JPA, paginazione, ordinamento e validazione dei dati.
+
 Sicurezza & Autenticazione: Configurazione di Spring Security con autenticazione personalizzata basata su token JWT, gestione dei ruoli e permessi utente.
+
 Business Logic: Gestione di cataloghi prodotti, carrello acquisti, indirizzi di spedizione, ordini e integrazione dei flussi di pagamento.
-Frontend & Deployment: Creazione della dashboard e dell'interfaccia utente in React (Hooks, Redux, Tailwind) e predisposizione del deployment cloud su AWS (EC2/RDS) tramite profilazione Spring Boot. 
+
+Frontend & Deployment: Creazione della dashboard e dell'interfaccia utente in React (Hooks, Redux, Tailwind) e predisposizione del deployment cloud su AWS (EC2/RDS) tramite profilazione Spring Boot.
+
   👉 https://github.com/LorenzoLemmi/e-commerce
   
 - **Ticket Platform**  
